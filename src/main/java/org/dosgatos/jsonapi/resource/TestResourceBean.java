@@ -6,7 +6,7 @@ import javax.ws.rs.BeanParam;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriInfo;
 
-import org.dosgatos.jsonapi.queryparam.bullpen.QueryParams;
+import org.dosgatos.jsonapi.bullpen.QueryParams;
 
 public class TestResourceBean implements TestResource {
 

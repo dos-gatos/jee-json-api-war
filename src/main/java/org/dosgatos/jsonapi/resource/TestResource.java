@@ -9,7 +9,7 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriInfo;
 
-import org.dosgatos.jsonapi.queryparam.bullpen.QueryParams;
+import org.dosgatos.jsonapi.bullpen.QueryParams;
 import org.jboss.resteasy.annotations.providers.jackson.Formatted;
 @Path("test")
 public interface TestResource {
